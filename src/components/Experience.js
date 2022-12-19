@@ -12,7 +12,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>ŠTRAMÁK - pánsky strih do prechodu fade rôzne techniky</h5>
-                        <p><b>10 €</b></p>
+                        <p><b>11 €</b></p>
                     </div>
                 </div>
             {/*   --------     */}
@@ -20,7 +20,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>JUNÁK - jednoduchý pánsky strih boky jednej dĺžky</h5>
-                        <p><b>8 €</b></p>
+                        <p><b>9 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}
@@ -28,7 +28,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>NA JEŽKA - strojčekom na jednu dĺžku</h5>
-                        <p><b>6 €</b></p>
+                        <p><b>7 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}
@@ -36,7 +36,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>TAMAGOČI - strih do 15 rokov pre vaše ratolesti</h5>
-                        <p><b>6 €</b></p>
+                        <p><b>8 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}
@@ -44,7 +44,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>VIKING - úprava brady, britva, gél na holenie, kolínska po holení</h5>
-                        <p><b>6 €</b></p>
+                        <p><b>8 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}
@@ -52,7 +52,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>Farba vlasy - farbenie krátkych pánskych vlasov</h5>
-                        <p><b>5 €</b></p>
+                        <p><b>6 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}
@@ -60,7 +60,7 @@ const Experience = () => {
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h5>Farba brada</h5>
-                        <p><b>5 €</b></p>
+                        <p><b>6 €</b></p>
                     </div>
                 </div>
                 {/*   --------     */}

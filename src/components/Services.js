@@ -1,10 +1,11 @@
 import React from "react";
-import foto1 from '../images/foto1.jpg';
-import foto2 from '../images/foto2.jpg';
-import foto3 from '../images/foto3.jpg';
-import foto4 from '../images/foto4.jpg';
-import foto5 from '../images/foto5.jpg';
-import foto6 from '../images/foto6.jpg';
+import fotka1 from '../images/fotka1.jpeg';
+import fotka2 from '../images/fotka2.jpeg';
+import fotka3 from '../images/fotka3.jpeg';
+import fotka4 from '../images/fotka4.jpeg';
+import fotka5 from '../images/fotka5.jpeg';
+import fotka6 from '../images/fotka6.jpg';
+import fotka7 from '../images/fotka8.jpeg';
 
 const Services = () => {
     return (
@@ -14,36 +15,41 @@ const Services = () => {
                 alebo <a href="https://www.instagram.com/progressbarber.sk/" alt="Instagram">Instagrame</a>.</h4>
                <div className="container">
                    <div className="row">
-                   <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto4} alt=""></img>
+                               <img className="people_images" src={fotka1} alt="Fotka1"></img>
                            </div>
-                       </div>
-                       <div className="col-lg-3 col-md-6 col-sm-6">
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto5} alt=""></img>
+                               <img className="people_images" src={fotka2} alt="Fotka2"></img>
                            </div>
-                       </div>
-                       <div className="col-lg-3 col-md-6 col-sm-6">
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto2} alt=""></img>
+                               <img className="people_images" src={fotka3} alt="Fotka3"></img>
                            </div>
-                       </div>
-                       <div className="col-lg-3 col-md-6 col-sm-6">
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto3} alt=""></img>
+                               <img className="people_images" src={fotka4} alt="Fotka4"></img>
                            </div>
-                       </div>
-                       <div className="col-lg-3 col-md-6 col-sm-6">
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto6} alt=""></img>
+                               <img className="people_images" src={fotka5} alt="Fotka5"></img>
                            </div>
-                       </div>
-                       <div className="col-lg-3 col-md-6 col-sm-6">
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                            <div className="box">
-                               <img className="people_images" src={foto1} alt=""></img>
+                               <img className="people_images" src={fotka6} alt="Fotka6"></img>
                            </div>
-                       </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6">
+                           <div className="box">
+                               <img className="people_images" src={fotka7} alt="Fotka7"></img>
+                           </div>
+                        </div>                        
                    </div>
                </div>
            </div>
